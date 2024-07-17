@@ -1,4 +1,11 @@
 ## Hi there 👋
+#piva
+tome
+-lista
+texto
+-sexooo
+-tome
+
 
 <!--
 **joaopivaa/joaopivaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
