@@ -12,7 +12,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopivaa&theme=radical&layout=compact)
 
-## Contato
+## Contact
 
 - **Instagram**: [@vieiraluzpiva](https://www.instagram.com/vieiraluzpiva/)
 - **LinkedIn**: [João Pedro Piva](https://linkedin.com/in/joaopiva-dev)
