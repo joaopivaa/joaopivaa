@@ -1,22 +1,25 @@
-## @Hello World. Piva is here!
+## @Hello World. Piva is here 👋
 
-### About me:
-- 
+### About me
+- Apaixonado por programação
+- Estudante de programação no IFSP
+- I'm 19y
+- Amo futebol
 
 ### My Portfolio: <a href="https://joaopivaa.github.io/portfolio/">https://joaopivaa.github.io/portfolio/</a>
 
+## Estatísticas do GitHub
 
-<!--
-**joaopivaa/joaopivaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaopivaa&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-Here are some ideas to get you started:
+## Linguagens Mais Utilizadas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopivaa&theme=radical&layout=compact)
+
+## Contato
+
+Você pode me encontrar em:
+
+- **Twitter**: [@vieiraluzpiva](https://www.instagram.com/vieiraluzpiva/)
+- **LinkedIn**: [João Pedro Piva](https://linkedin.com/in/joaopiva-dev)
+- **Email**: jvieiraluzpiva@gmail.com
