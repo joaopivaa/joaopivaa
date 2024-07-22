@@ -1,10 +1,10 @@
 ## @Hello World. Piva is here 👋
 
 ### About me
-- Codes are my life
-- Programming student at IFSP
-- I'm 19y
-- I love soccer 
+- Codes are my life 💻
+- Programming student at IFSP 🎓
+- I'm 1️⃣9️⃣ y
+- I love soccer ⚽
 
 ### My Portfolio: <a href="https://joaopivaa.github.io/portfolio/">https://joaopivaa.github.io/portfolio/</a>
 
@@ -16,4 +16,4 @@
 
 - **Instagram**: [@vieiraluzpiva](https://www.instagram.com/vieiraluzpiva/)
 - **LinkedIn**: [João Pedro Piva](https://linkedin.com/in/joaopiva-dev)
-- **Email**: jvieiraluzpiva@gmail.com
+- ✉️ jvieiraluzpiva@gmail.com
