@@ -8,7 +8,7 @@
 
 ### My Portfolio: <a href="https://joaopivaa.github.io/portfolio/">https://joaopivaa.github.io/portfolio/</a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaopivaa&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaopivaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopivaa&theme=radical&layout=compact)
 
